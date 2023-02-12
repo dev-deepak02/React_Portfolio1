@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio1/static/css/main.20e6feb6.css",
+    "main.js": "/React_Portfolio1/static/js/main.03f625b1.js",
+    "static/media/Restaurant.png": "/React_Portfolio1/static/media/Restaurant.b69c019b3440a711cc3e.png",
+    "static/media/Raushan.jpeg": "/React_Portfolio1/static/media/Raushan.a7d67ef16be12cf9ebc1.jpeg",
+    "static/media/myntra1.png": "/React_Portfolio1/static/media/myntra1.8cd5a1d493b6531e950c.png",
+    "static/media/News.png": "/React_Portfolio1/static/media/News.bc3180cdf78da0aa702c.png",
+    "static/media/goodwill.png": "/React_Portfolio1/static/media/goodwill.f57856b78e891622d478.png",
+    "static/media/pic1.jpeg": "/React_Portfolio1/static/media/pic1.589e4321828296960c55.jpeg",
+    "static/media/Rahul.jpg": "/React_Portfolio1/static/media/Rahul.efd475cc9da8381ea273.jpg",
+    "static/media/about1.png": "/React_Portfolio1/static/media/about1.7304b359f19acaa4f639.png",
+    "static/media/portfolio2.png": "/React_Portfolio1/static/media/portfolio2.6f6a5eb29353224f5c39.png",
+    "static/media/b1.jpg": "/React_Portfolio1/static/media/b1.48924ed1f3e0d209e426.jpg",
+    "static/media/g1.jpg": "/React_Portfolio1/static/media/g1.bb021819ac723ceeef97.jpg",
+    "static/media/g3.jpg": "/React_Portfolio1/static/media/g3.a1798717552a09e13361.jpg",
+    "static/media/cv.pdf": "/React_Portfolio1/static/media/cv.03d369e91970310a3c5b.pdf",
+    "static/media/3p.jpg": "/React_Portfolio1/static/media/3p.5734a1349fb6dc79514b.jpg",
+    "index.html": "/React_Portfolio1/index.html",
+    "main.20e6feb6.css.map": "/React_Portfolio1/static/css/main.20e6feb6.css.map",
+    "main.03f625b1.js.map": "/React_Portfolio1/static/js/main.03f625b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e6feb6.css",
+    "static/js/main.03f625b1.js"
+  ]
+}
